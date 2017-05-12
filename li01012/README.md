@@ -27,12 +27,3 @@ Add the following content to the README.md in your repo.
 * Provide a URL to the source of your new CSV file
 * Provide an extremely brief description of all pre-processing, if any.
 
-#### Technical
-
-For each step, create a separate gist/block -- link to these in your repo's README.md
-
-1. Since your projects are similar, start with your instructional demo (above) and get it to zoom in on Texas instead of New York...
-    * https://umbcvis.github.io/projects/qaisarmehmood/index2
-2. Integrate data from CSV into a chloropleth map.
-3. TBD
-

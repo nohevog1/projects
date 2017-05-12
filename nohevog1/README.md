@@ -23,6 +23,8 @@ It will also display some touristic characteristics of the country and some poin
 https://github.com/nohevog1/Final_Project -- old data files (pre-projected coordinates)
 https://github.com/nohevog1/Final_Project2 -- updated data files (un-projected coordinates)
 
+Project to date: http://bl.ocks.org/nohevog1/717b70a117ee38e910cfa737ac86eb06
+
 ### Gists
 
 1. https://gist.github.com/nohevog1/f4ce6e47ed1d2fb3cb96d3b4a43155b2

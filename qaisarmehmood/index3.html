@@ -43,13 +43,15 @@ function ready(error, us, csv) {
   svg.selectAll('path.county')
       .data( newyork )
     .enter().append("path")
+      .attr("class", "county")
       .attr("d", path)
       .attr('fill', '#fff')
-      .attr('fill-opacity', '0')
       .attr("stroke", "#aaa")
       .attr("stroke-width", 0.5)
       .on('mouseover', function(d) { 
           console.log(d.id, data.get(d.id)); 
+          svg.selectAll('path.county').attr("fill", "#fff");
+          d3.select(this).attr("fill","crimson");
           d3.select(".info").html(data.get(d.id)["County Name"]); 
       }); // NEW
 

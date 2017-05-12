@@ -27,4 +27,4 @@ this demo shows how to reconstruct all the counties from the census tracts.
 
 #### To Do
 
-* Get the map and (one of the) charts to interact
+* Get the map and (one of the) charts to interact 
