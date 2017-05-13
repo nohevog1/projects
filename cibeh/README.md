@@ -14,7 +14,7 @@ This demo, based on the [class 5 demo](https://umbcvis.github.io/classes/class-0
 
 *  https://umbcvis.github.io/projects/cibeh/
 
-# Data Sources
+### Data Sources
 
 Carbon Emission Data: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
 
@@ -22,5 +22,5 @@ Data has been summarized and filtered to match the specification of this present
 
 Population Density Data: https://www.census.gov/data.html
 
-Census data was appended to states shapefile and exported in geoJSON format
+Census data was appended to states shapefile and exported in geoJSON format.
 
