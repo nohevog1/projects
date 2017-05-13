@@ -6,7 +6,7 @@ Use data from the Occupational Safety & Health Administration (OSHA) to compare 
 
 Project repository: https://github.com/is64377/778Classes/tree/master/Project
 
-OSHA data: https://github.com/is64377/778Classes/blob/master/Project/OSHA.csv
+Demo: https://bl.ocks.org/is64377/d0034ab08c70eb85902c570ebf596036
 
 ### Instructional demos
 
@@ -18,6 +18,3 @@ OSHA data: https://github.com/is64377/778Classes/blob/master/Project/OSHA.csv
     * It starts from the Class #5 demo
     * https://umbcvis.github.io/projects/is64377/index2.html
 
-## To Do
-
-* Add links to your original data sources to the README.md in your repo.
