@@ -1,6 +1,6 @@
 ## Project -- CO emissions across the US
 
-The purpose of this map is to create a pollution index report for all states within the United States. More precisely, map the average daily emission of pollutant carbon monoxide (CO) against the population density of states in the US to visualize any relationship between population density and carbon monoxide emission.
+The map shows average daily carbon monoxide (CO) emissions along with population density for US states. The goal is to visualize any relationship between the two.
 
 ### Repository
 
