@@ -16,11 +16,7 @@ This demo, based on the [class 5 demo](https://umbcvis.github.io/classes/class-0
 
 ### Data Sources
 
-Carbon Emission Data: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+Carbon Emission Data: https://www.epa.gov/outdoor-air-quality-data/download-daily-data -- Data has been summarized and filtered to match the specification of this presentation.
 
-Data has been summarized and filtered to match the specification of this presentation.
-
-Population Density Data: https://www.census.gov/data.html
-
-Census data was appended to states shapefile and exported in geoJSON format.
+Population Density Data: https://www.census.gov/data.html -- Census data was appended to states shapefile and exported in geoJSON format.
 
