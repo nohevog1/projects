@@ -18,6 +18,12 @@ Project repository: https://github.com/leenoah1/class_project
 * calculated new geometry (acres)
 * calculated new population numbers based on new tract geometry/area
 
+## Instructional demo
+
+This demo shows how to read and plot the watershed topojson.  Examination of the plot shows that the clipping process (accomplished when creating the shapefiles) has introduced some errors in the topology.
+
+* https://umbcvis.github.io/projects/leenoah1/index.html
+
 ## To Do
 
 For each step, create a separate gist/block -- link to these in your repo's README.md
