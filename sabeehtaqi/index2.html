@@ -16,7 +16,7 @@ var color = d3.scaleThreshold()
     .domain(d3.range(2, 10).map(function(d) { return d * 100; }))
     .range(d3.schemeBlues[9]);
 
-var filename = "https://raw.githubusercontent.com/sabeehtaqi/FINAL-PROJECT/master/ProjectData.csv";
+var filename = "https://raw.githubusercontent.com/sabeehtaqi/FINAL-PROJECT/master/PopulationData.csv";
 
 d3.queue()
     .defer(d3.json,"https://unpkg.com/us-atlas@1/us/10m.json")
