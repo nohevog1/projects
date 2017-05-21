@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <meta charset='utf-8'>
 <title>US Counties</title>
-<body>
-<div id="info" style="position: absolute; top: 20px; left: 500px;"></div>
 <svg width="960" height="600" fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/topojson-client@3"></script>
@@ -31,9 +29,7 @@ function ready(error, us, csv) {
 
   // Get the data for one year -- reformat the string value into a number
   var data = d3.map();
-  csv.forEach(function(d) {
-    data.set(d.id, { name: d.Area_Name, state: d.State, rate: +d.rate2010.replace(',','') });
-  });
+  csv.forEach(function(d) { data.set(d.id, +d.rate2010.replace(',','')); });
 
   console.log('here is how the data map works', data.get(27069));
 
@@ -50,10 +46,7 @@ function ready(error, us, csv) {
       .attr("d", path)
       .attr("stroke", "#aaa")
       .attr("stroke-width", 0.5)
-      .attr("fill", function(d) { return color(data.get(d.id).rate); })
-      .on('mouseover', function(d) {
-        d3.select("#info").html(data.get(d.id).name + ", " + data.get(d.id).state )
-      })
+      .attr("fill", function(d) { return color(data.get(d.id)); });
 
   svg.append("path")
       .attr("stroke", "#aaa")
