@@ -7,17 +7,12 @@
 <script>
 
 // This demo modified slightly from https://bl.ocks.org/mbostock/4108203
-
-
 var svg = d3.select("svg");
-
 var path = d3.geoPath();
-
-var filename = "https://raw.githubusercontent.com/sabeehtaqi/FINAL-PROJECT/master/PopulationData.csv";
 
 d3.queue()
     .defer(d3.json,"https://unpkg.com/us-atlas@1/us/10m.json")
-    .defer(d3.csv, filename)
+    .defer(d3.csv, "PopulationData.csv"
     .await(ready);
 
 function ready(error, us, csv) {

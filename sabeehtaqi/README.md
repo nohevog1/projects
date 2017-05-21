@@ -16,6 +16,11 @@ Project repository: https://github.com/sabeehtaqi/FINAL-PROJECT
 
 *  https://umbcvis.github.io/projects/sabeehtaqi/index2.html
 
+3. This demo modifies #2 by printing county names on mouseover.
+
+*  https://umbcvis.github.io/projects/sabeehtaqi/index3.html
+
+
 ## To Do
 
 Next steps for the project....
