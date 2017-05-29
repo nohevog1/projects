@@ -2,6 +2,10 @@
 
 Goal: A Chloropeth map of population estimates for the counties in USA from the year 2010 to 2016, with an interactive by a scroll bar or something similar.
 
+### Demo
+
+https://bl.ocks.org/sabeehtaqi/fe4f3f2f8cf2c7ee82f5dca555aae1d3
+
 ### Data
 
 Project repository: https://github.com/sabeehtaqi/FINAL-PROJECT

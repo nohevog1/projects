@@ -65,6 +65,3 @@ For more information on my doctoral research, please visit: http://nohemivoglozi
 The map allows the user to add or remove some layers, and when the user hover on the villages, the names are displayed as an info, and on the other layers, pictures representing a particularity of the region is shown along with the name of the feature.
 
 FINAL PROJECT GIST: https://gist.github.com/nohevog1/7e9f3a0a170cd644cbd020f94ba9aa39
-
-FINAL PROJECT DEMO: http://bl.ocks.org/nohevog1/raw/d978718d7bb6f7479dbe7a00c2db1eaf/
-

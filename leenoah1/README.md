@@ -2,9 +2,13 @@
 
 Purpose/Goals: Create interactive webmap of census demographic data in the Anacostia Watershed
 
-### Data
+### Demo
 
-Project repository: https://github.com/leenoah1/class_project
+https://leenoah1.github.io/class_project
+
+### Project repository
+
+https://github.com/leenoah1/class_project
 
 **Data sources**
 
