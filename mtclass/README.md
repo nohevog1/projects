@@ -6,6 +6,10 @@ The Goal is to identify the counties with the greatest population.
 The chart will show how the population is distributed by age cohorts, which
 will tell the story as to what age cohorts are concentrated in specific Counties, e.g., PG County has the largest population ages 20-24, perhaps because of UMD, and Montgomery County seems to attract retirees.
 
+### Demo
+
+https://bl.ocks.org/MTClass/ac07c1f5e40ead6930c32a4a0e2ae67a
+
 ### Data
 
 Project repository: https://github.com/MTClass/Project
