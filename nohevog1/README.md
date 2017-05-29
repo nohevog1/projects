@@ -74,4 +74,8 @@ Add the following content to the README.md in your project repo.
 * Extremely brief description of all pre-processing
     * *Did you create your shapefiles for your other class/program?  If so, what tools did you use?*
     * Shapefiles converted to GeoJSON by instructor: https://github.com/umbcvis/projects/tree/master/nohevog1
+    
+#### Limks to Gists
+http://bl.ocks.org/nohevog1/717b70a117ee38e910cfa737ac86eb06
+http://bl.ocks.org/nohevog1/7bef98651ccbbbbb28d6451a5bc493eb
 
