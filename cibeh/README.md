@@ -6,7 +6,7 @@ The map shows average daily carbon monoxide (CO) emissions along with population
 
 Project repository: https://github.com/cibeh/class/tree/master/FinalProject
 
-Demo: https://gist.github.com/cibeh/56eba6015bdb99a6d0618fc7274b6fdc
+Demo: https://cibeh.github.io/class/FinalProject/index.html
 
 ### Instructional demo
 
